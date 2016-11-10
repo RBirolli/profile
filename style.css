@@ -84,6 +84,10 @@ fa {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.fa-linkedin:before {
+  content:"\f0e1"
+}
+
 #img-profile {
     width: 100px;
     height: 100px;
